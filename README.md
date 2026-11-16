@@ -12,3 +12,9 @@ Esta versão implementa o fluxo completo de **"Dar aulas"**, englobando o preenc
 Certifique-se de ter instalado em sua máquina:
 - **Node.js** (versão 18 ou superior)
 - **npm** (ou gerenciador compatível como yarn/pnpm)
+
+### Passo a Passo para execução
+1. Clone o repositório : https://github.com/Oliveirajon23/web-main
+2. Instale as dependencias do projeto: npm install
+3. Inicie o servidor de desenvolvimento do Vite: npm run dev
+4. Abra o Navegador e acesse a URL que aparece no terminal: http://localhost:5173
